@@ -1,0 +1,1 @@
+## Developed during NLW #5 with Next.js and static database in JSON (Next Level Week #5 - Rocketseat)
